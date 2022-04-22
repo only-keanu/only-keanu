@@ -43,7 +43,7 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center" color="white">Pick 'em Drinks! - Drink recipe site</h2>
+				<h3 align="center" color="white">Kryptonite Productions</h2>
 				<div align="center" >  
 					<a href='https://github.com/only-keanu/kryptonite-productions'>
 						<img src="https://github.com/only-keanu/readme-assets/blob/main/kryptonite.gif" alt="Kryptonite Productions GIF!" height="100%" />
