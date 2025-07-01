@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Keane Hernandez</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-- 👨‍💻 All of my projects are available at [https://only-keanu.github.io/keanu.github.io/#home](https://only-keanu.github.io/keanu.github.io/#home)
+<!-- 👨‍💻 All of my projects are available at [https://only-keanu.github.io/keanu.github.io/#home](https://only-keanu.github.io/keanu.github.io/#home)-->
 
 - ⚡ Fun fact **I love learning about new tech**
 
